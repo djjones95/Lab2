@@ -1,0 +1,15 @@
+/Users/MACBOOK/Projects/Lab2/bin/Debug/net6.0/Lab2
+/Users/MACBOOK/Projects/Lab2/bin/Debug/net6.0/Lab2.deps.json
+/Users/MACBOOK/Projects/Lab2/bin/Debug/net6.0/Lab2.runtimeconfig.json
+/Users/MACBOOK/Projects/Lab2/bin/Debug/net6.0/Lab2.dll
+/Users/MACBOOK/Projects/Lab2/bin/Debug/net6.0/Lab2.pdb
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.csproj.AssemblyReference.cache
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfoInputs.cache
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfo.cs
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.dll
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/refint/Lab2.dll
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.pdb
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/Lab2.genruntimeconfig.cache
+/Users/MACBOOK/Projects/Lab2/obj/Debug/net6.0/ref/Lab2.dll
